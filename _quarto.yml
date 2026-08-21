@@ -1,0 +1,15 @@
+project:
+  type: default
+  title: "Data H195A: Data Science Honors Program"
+  # output-dir: slides
+
+author: Jonathan A. Pedroza (JP) PhD
+
+format:
+  revealjs:
+    theme: solarized
+  beamer:
+    theme: Berkeley
+    colortheme: dove
+    toc: false
+

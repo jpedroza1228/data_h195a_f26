@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+__pycache__/
+
+/extension
+
+pyproject.toml
+uv.lock
+
+/other
+/.quarto/
+**/*.quarto_ipynb

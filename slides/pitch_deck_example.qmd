@@ -1,0 +1,56 @@
+---
+title: "Pitch Deck"
+author: Jonathan A Pedroza PhD
+date: today
+format: 
+  beamer:
+    theme: Berkeley
+    colortheme: dove
+    toc: false
+---
+
+## About Me
+
+- Why choose your research project idea?
+- Any past research project experience? If so, tell us a little about the experience.
+- Tell us about a hobby or interest of yours.
+- What is a fun fact about you?
+
+## Project Details
+
+- Who is your advisor/Who would you like to be your advisor?
+- What data sources will you use?
+- What methods will you use?
+
+## About JP
+
+- Why choose your research project idea?
+
+  - Came back to academia and have been interested in how to help others learn data science topics
+
+- Any past research project experience? If so, tell us a little about the experience.
+
+  - Past research experiences in interviews/focus groups, assessment modeling, focus on measurement
+
+- Tell us about a hobby or interest of yours.
+
+  - Back home, I love to roast my own coffee
+
+- What is a fun fact about you?
+
+  - I am the first person in my family to get a doctorate
+
+## Project Details
+
+- My advisor/sponsor is Dr. Alexander Strang in the statistics department
+
+- Using assignment, quiz, and exam item-level responses from statistics courses
+
+  - This data will inform instructors for future courses on identifying students
+
+  - Developing tools to build models without expertise for instructors
+
+- Various models
+
+  - survival analyses
+  - diagnostic classification models
