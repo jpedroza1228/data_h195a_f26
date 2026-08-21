@@ -7,9 +7,24 @@ author: Jonathan A. Pedroza (JP) PhD
 
 format:
   revealjs:
+    slide-number: true
+    # transition: slide
+    # incremental: true
+    width: 1200
+    margin: 0.0 
+    scrollable: true
+    smaller: true
     theme: solarized
   beamer:
     theme: Berkeley
     colortheme: dove
     toc: false
 
+jupyter: .venv/bin/python
+
+execute:
+  freeze: auto
+  warning: false
+  message: false
+  echo: false
+  eval: true
