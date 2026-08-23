@@ -9,83 +9,283 @@ date: today
 :::: {.columns}
 
 ::: {.column width="50%"}
-- Jonathan A. Pedroza (JP; he/him)
+- Dr. Jonathan A. Pedroza (JP; he/him)
+  - Please call me JP
+  - Everyone *only* gets one "professor/instructor/doctor Pedroza"
 
-- Please call me JP
+- I'm a first-generation college student
+  - Only one in my family to get a PhD
 
-![](jp.jpg)
+- Inspiration: My undergraduate advisor, Dr. Alejandro Morales
+
+- Hobbies: Roasting coffee, cooking, gardening, and fishing
+
+- Useless skill: Can make myself cry on cue
+
 :::
 
 ::: {.column width="50%"}
-- Academic Journey
-
-  - PhD in Prevention Science
-
-    - Educational Data Science Specialization
+![](jp_photo.jpg){height=300, width=400}
 :::
 
 ::::
 
-## Introduction
+::: {.notes}
+No one in my family still understands what I do.
+:::
 
-- Previously a data scientist at an educational assessment research center
+## Background
 
-- Previously taught courses on:
+:::: {.columns}
 
-  - statistics for behavioral science
+::: {.column width="50%"}
+- PhD in Prevention Science from University of Oregon
+  - Identify as a Prevention Scientist
 
-  - experimental research design
+- My academic journey is a roller coaster
+  - Cognition & neuroimaging
+  - Latina/o/x health disparities
+  - Adolescent substance use
+  - Neighborhood composition
+  - Educational assessments
+  - Data Science education
+:::
 
-  - seminar research group for McNair scholars
+::: {.column width="50%"}
+![](lucy.jpg){height=200, width=250}
+![](daisy.jpg){height=200, width=250}
+:::
 
-- Now data science education postdoctoral researcher
+::::
 
-  - research in early identification of students in data science/statistics courses
+## Do you have the credentials to even teach this class?
 
-## Data H195A
+- I've taught multiple courses
+  - Statistics
+  - Experimental research design
+  - Seminar research group for McNair scholars
 
-- 2 semester sequence to conduct an independent data science project
+- Past experience as a data scientist for an educational research center
+  - What was my most used skill?
 
-  - Fall
-
-    - seminar on open science
-    - building a relationship with an advisor
-    - elements of thesis data
-  
-  - Spring
-
-    - completion of thesis
+- You all have awesome technical skills
+  - Focus on:
+    - Soft skills
+    - Feasibility
+    - Research skills
 
 ## Introductions
 
-- Where are you from?
-
-- What year are you?
-
-- What is your major/minor?
+- What is your name? 
+  - What are your pronouns?
 
 - Where are you from?
+
+- What is your domain emphasis?
 
 - Tell us about someone who has been an inspiration to you.
 
 - Tell us about a hobby or interest of yours.
+
+- Tell us about a useless skill that you have.
+
+- What are you most excited for in this class? What is most terrifying?
+
+## Data H195 Format
+
+- 2 semester sequence to conduct an independent data science project
+  - Fall
+    - Seminar on strengthing research skills
+    - Building a relationship with an advisor
+    - Getting access to data
+      - Having feasible plans for project
+  
+  - Spring
+    - Complete your thesis
+      - Take project further
+      - Have a letter writer/reference
+      - Build your network
+
+## What do I expect from you?
+
+- Attendance
+  - Come to class
+  - Be ready to talk as a larger group and in smaller groups
+  - Provide meaningful feedback for peers
+
+- Be respectful and patient with one another
+
+- Be ready to keep yourself on task for the assignments in this course
+  - Plus whatever your advisor needs for your project
+    - CITI training
+    - Data collection techniques
+    - New analytic techniques
+    - Software
+
+:::{.notes}
+- Email me if you can't make it
+- Bring questions about your project/advisor relationship
+:::
 
 # Let's get to the course
 
 ## **Independent** Projects
 
 - What is needed of you
-
-  - hustle!
-  - keep yourself on task
-  - provide initiative
+  - Hustle!
+  - Keep yourself on task
+  - Provide initiative
   
 - Where I come in
+  - Help with the research process
+  - Accountability & deadlines
+  - Outlines for work
+
+## Course Components
+
+- Finding an advisor
+
+- Learn fundamentals of conducting research
+  - Literature reviews
+  - Research questions/hypotheses
+  - Theory
+  - Keeping yourself accountable (e.g., timelines)
   
-  - accountability
-  - deadlines
-  - outlines for work
-  - tips and tricks for work
+- Additional skills
+  - Accountability
+  - Writing
+  - Presenting
+  - Reproducibility
+
+## Generative AI Policy
+
+- AI is allowed for
+  - Brainstorming & idea generation
+    - generate initial ideas
+  - Coding assistance
+  - Grammar checks
+
+- AI is not allowed for
+  - Generating any writing at all
+  - Summarizing any reading, assignment, or instructions
+
+## Assignments
+
+- Assignments will help build parts of your project thesis
+
+- Grading will be on bcourses
+
+- Peer feedback for presentations
+
+- You will do fine in this class as long as you are putting in effort and submitting assignments
+
+- This course is not about the grade. It is about you learning how to conduct independent research
+
+## Grade Breakdown
+
+```{r}
+#| label: grading-table
+
+library(gt)
+
+tibble::tribble(
+  ~Assignment, ~`% of Grade`, ~Points,
+  "In-class participation", "5%", 5,
+  "Literature review/annotated bibliographies", "5%", 5,
+  "Advisor check in", "5%", 5,
+  "Timeline", "5%", 5,
+  "Methodology proposal", "10%", 10,
+  "Preliminary proposal presentation", "10%", 10,
+  "Data documentation (e.g., GitHub, MaxQDA, Box)", "10%", 10,
+  "Final proposal presentation", "20%", 20,
+  "Final proposal", "30%", 30
+) |>
+  gt() |>
+  cols_align(align = "left", columns = Assignment) |>
+  cols_align(align = "center", columns = c(`% of Grade`, Points)) |>
+  tab_options(table.width = pct(100))
+```
+
+## Annotated Bibliographies
+
+- Read literature on your topic of interest
+
+- Gather key information in either short paragraphs or spreadsheets
+  - Purpose of the statement
+  - Guiding theory
+  - Research questions/hypotheses
+  - Specific methods
+  - Main findings
+
+## Submit RQs/Hypotheses
+
+- Develop RQs and/or hypotheses about your topic of interest
+  - Guided by previous literature
+
+- Focus will be on 
+  - Whether the RQs are feasible in a year
+  - If your data is capable of answering the RQs
+  - If it aligns with your advisor's expertise
+
+## Get RQs Approved
+
+- Share your RQs with your advisor
+
+- Get RQs approved over email
+  - Submit screenshot of approval/conversation for credit
+
+## Submit Timeline
+
+- Breakdown of weekly activities
+
+- Useful for keeping yourself accountable
+
+- You will share this with your advisor
+  - No need for any proof here
+
+## Methodology Proposal
+
+- You will write about your data
+  - Your data source
+    - Explanations of your sample
+  - Steps of data manipulation, processing, and documentation (i.e., , missing data, cleaning)
+  - How was data collected
+
+- Analytic approches
+  - Why specific models (literature backed)
+
+- Metrics used and why
+
+## Preliminary Proposal Presentation & Feedback
+
+- Small group presentations
+  - Presenting to others outside of your field
+
+- You are all expected to give feedback to everyone in your group
+
+## Create Repository for Data
+
+- Depending on the type of data you have
+  - You'll either use Box, a qualitative data service, or GitHub
+
+## Final Proposal Presentation & Feedback
+
+- Finalized presentation on your proposal that you will take with you into the spring semester
+
+- You'll give feedback to every other student
+
+## Final Proposal
+
+- An accumulation of all of your work in the form of an academic paper
+
+
+
+
+
+
+
+
+
 
 ## Open Source Inspirations
 
@@ -118,7 +318,7 @@ date: today
 
 ## Course Product
 
-- 20-25 page paper
+
 
 - 
 
@@ -134,33 +334,7 @@ date: today
 
 - 
 
-## Grading
 
-```{r}
-# TODO needs work to decide on other assignments
-grade_tbl <- tibble::tribble(
-  ~Assignments, ~`Breakdown (%)`,
-  "In-class participation", 10,
-  "Preliminary prospectus", 10,
-  "GitHub setup", 5,
-  "Docuemtation proposal", 5,
-  "Methodology proposal", 5,
-  "Data presentation/Jupyter notebook", 25,
-  "Prospectus and presentation", 40
-)
-
-gt::gt(grade_tbl)
-```
-
-## Assignments
-
-- assignments will help build parts of your thesis
-
-- grading will be on bcourses
-
-- readings assigned on bcourses
-
-- peer feedback for presentations
 
 ## Assignment 1
 

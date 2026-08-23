@@ -20,7 +20,7 @@ format:
     colortheme: dove
     toc: false
 
-jupyter: .venv/bin/python
+# jupyter: .venv/bin/python
 
 execute:
   freeze: auto
