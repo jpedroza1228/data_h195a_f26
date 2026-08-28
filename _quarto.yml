@@ -11,7 +11,7 @@ format:
     # transition: slide
     # incremental: true
     width: 1200
-    margin: 0.0 
+    margin: 0.1
     scrollable: true
     smaller: true
     theme: solarized
