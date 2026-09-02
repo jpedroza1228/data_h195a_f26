@@ -1,14 +1,14 @@
 ---
-title: "Week 1"
+title: "Week 2"
 subtitle: "Introductions & Syllabus"
 date: today
 ---
 
 ## Introduction
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="50%"}
+<!-- ::: {.column width="50%"} -->
 - Dr. Jonathan A. Pedroza (JP; he/him)
   - Please call me JP
   - Everyone *only* gets one "professor/instructor/doctor Pedroza"
@@ -22,13 +22,13 @@ date: today
 
 - Useless skill: Can make myself cry on cue
 
-:::
+<!-- ::: -->
 
-::: {.column width="50%"}
+<!-- ::: {.column width="50%"}
 ![](jp_photo.jpg){height=300, width=400}
-:::
+::: -->
 
-::::
+<!-- :::: -->
 
 ::: {.notes}
 No one in my family still understands what I do.
@@ -36,9 +36,9 @@ No one in my family still understands what I do.
 
 ## Background
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="50%"}
+<!-- ::: {.column width="50%"} -->
 - PhD in Prevention Science from University of Oregon
   - Identify as a Prevention Scientist
 
@@ -51,14 +51,14 @@ No one in my family still understands what I do.
   - Neighborhood composition
   - Educational assessments
   - Data Science education
-:::
+<!-- ::: -->
 
-::: {.column width="50%"}
-![](lucy.jpg){height=200, width=250}
-![](daisy.jpg){height=200, width=250}
-:::
+<!-- ::: {.column width="50%"} -->
+<!-- ![](lucy.jpg){height=200, width=250} -->
+<!-- ![](daisy.jpg){height=200, width=250} -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 ## Do you have the credentials to even teach this class?
 
@@ -96,17 +96,8 @@ No one in my family still understands what I do.
 ## Data H195 Format
 
 - 2 semester sequence to conduct an independent data science project
-  - Fall
-    - Seminar on strengthing research skills
-    - Building a relationship with an advisor
-    - Getting access to data
-      - Having feasible plans for project
-  
-  - Spring
-    - Complete your thesis
-      - Take project further
-      - Have a letter writer/reference
-      - Build your network
+  - Fall: seminar on research skills, advisor relationship, data access, and a feasible project plan
+  - Spring: complete and advance your thesis, find a letter writer/reference, and build your network
 
 ## What do I expect from you?
 
@@ -198,7 +189,7 @@ tibble::tribble(
   "Timeline", "5%", 5,
   "Methodology proposal", "10%", 10,
   "Preliminary proposal presentation", "10%", 10,
-  "Data documentation (e.g., GitHub, MaxQDA, Box)", "10%", 10,
+  "Data documentation", "10%", 10,
   "Final proposal presentation", "20%", 20,
   "Final proposal", "30%", 30
 ) |>

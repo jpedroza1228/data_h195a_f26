@@ -5,20 +5,20 @@ project:
 
 author: Jonathan A. Pedroza (JP) PhD
 
-format:
-  revealjs:
-    slide-number: true
-    # transition: slide
-    # incremental: true
-    width: 1200
-    margin: 0.1
-    scrollable: true
-    smaller: true
-    theme: solarized
-  beamer:
-    theme: Berkeley
-    colortheme: dove
-    toc: false
+format: beamer
+  # revealjs:
+  #   slide-number: true
+  #   # transition: slide
+  #   # incremental: true
+  #   width: 1200
+  #   margin: 0.1
+  #   scrollable: true
+  #   smaller: true
+  #   theme: solarized
+  # beamer:
+    # theme: Berkeley
+    # colortheme: dove
+    # toc: false
 
 # jupyter: .venv/bin/python
 
