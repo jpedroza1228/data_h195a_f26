@@ -1,5 +1,310 @@
 ---
-title: "Week 2"
+title: "Week 3"
 subtitle: "Communicating with Faculty"
 date: today
 ---
+
+## Today's icebreaker
+
+Would you date someone who is famous, but they are the most toxic person ever? Explain why or why not.
+
+## JP's response
+
+- Probably
+  - Because I never learn
+
+:::{.notes}
+- That silly statement was approved by my wife so we're all good
+:::
+
+## Elevator pitch
+
+- 1-2 minute pitch including:
+  - who you are
+  - your background
+  - your project idea 
+  - projections for the future (how project will help your academic career)
+  - OR a question for the person
+
+:::{.notes}
+
+:::
+
+## JP's pitch
+
+- Jonathan A. Pedroza, but you can call me JP
+- I am postdoctoral researcher in data science education
+- My background is in Prevention Science where
+- Interest in use of diagnostic classification models 
+  - Within alternative grading methods, such as mastery grading
+  - As tool to assess mastery of course concepts early and make education more equitable
+  - Specifically in data science and statistics courses
+- My hope is this project could lead to building tools for faculty, as well as:
+  - papers
+  - presentations
+  - public scholarship for college educators
+
+## Practice
+
+- Give it a shot with a small group around you
+
+- 1-2 minute pitch including:
+  - who you are
+  - your background
+  - your project idea
+  - projections for the future (how project will help your academic career)
+  - OR a question for the person
+
+:::{.notes}
+- Get into groups of 3-4
+- We're only going to practice in small groups
+- You'll eventually have to create a elevator pitch for your poster session
+:::
+
+## Reaching out to advisors
+
+- What worries you most about reaching out to advisors?
+
+:::{.notes}
+- Let's take like 3 minutes to talk in small groups
+:::
+
+## Reaching out to advisors
+
+- What worries you most about reaching out to advisors?
+  - They are an expert in their field
+  - They hold a position of power over me
+  - What if they think my idea is stupid?
+  - I'm wasting their time and they are busy
+  - What if they don't respond?
+
+:::{.notes}
+- What other worries do you have?
+
+:::
+
+## Reaching out to advisors
+
+- They are an expert in their field
+  - They are an expert ONLY in their field
+  - This expertise in their field means they probably struggle with other skills
+
+:::{.notes}
+- 
+:::
+
+## Reaching out to advisors
+
+- They hold a position of power over me
+  - Power is relative
+  - They hold power over you in this *specific* field
+  - If an advisor is getting food and they are being rude
+    - Are they still in power?
+
+:::{.notes}
+- I've heard faculty say some real questionable things
+  - Like my reaction is "how?"
+- You're probably more normal than your advisor
+    - You hold that power
+:::
+
+## Reaching out to advisors
+
+- What if they think my idea is stupid?
+  - Rethink if your research interests match their research
+  - Otherwise, this is a red flag
+  - Advisors should be able to shift your interests to be realistic and align with their work if the fit is somewhat there
+
+:::{.notes}
+- If the fit is not there, don't force the relationship to work
+:::
+
+## Reaching out to advisors
+
+- I'm wasting their time and they are busy
+  - If an advisor doesn't have time for you that is okay
+  - You find a new advisor
+  - Also, you're not wasting their time
+  - Advisors are academics because they love advancing research
+    - If interests align, most will show interest
+
+## Reaching out to advisors
+
+- What if they don't respond?
+  - They may not
+  - Check back in after a week with follow-up email
+  - If no response, look for a new advisor
+
+## Points about advisors
+
+- Remember, all potential advisors are people
+- Don't choose advisors based on the name
+  - Pick based on fit with their research
+  - Pick based on faculty's level of commitment/availability
+  - Don't bad mouth people (i.e., advisors)
+- Both interested in similar topics 
+  - Don't be afraid to be excited
+  - Excited is great
+
+:::{.notes}
+- At the end of the day, you're both interested in the same research topic
+:::
+
+## This is a relationship
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- This is academic dating
+  - You may get rejected
+- Just like romantic relationships
+  - You have a voice
+- Toxic relationships
+  - Would you date someone famous and toxic?
+:::
+
+::: {.column width="40%"}
+![](heartbroken.jpg){width="150px"}
+
+[Photo by Israyosoy S](https://www.pexels.com/photo/thoughtful-young-man-with-roses-on-urban-plaza-30865190/)
+:::
+
+::::
+
+:::{.notes}
+- Rejection is the name of the game
+- Just like romantic relationships, you have a voice in the relationship
+  - If you think otherwise, you may need time for reflection
+- Learn to identify toxic relationships
+:::
+
+## How to reach most faculty
+
+- Emails
+- Office hours
+- Meeting at departmental social event
+- If you don't know someone AT ALL
+  - Don't give pitch if you see them in public
+  - If you took a class with them, say hi, then you can email them
+
+:::{.notes}
+
+:::
+
+## We'll focus on emails
+
+- Don't use AI
+- Seriously don't use AI
+- Show your genuine interest
+- What goes into your email
+
+:::{.notes}
+- Nothing says I don't care like an AI email
+:::
+
+## We'll focus on emails
+
+- State who you are
+- Background (Senior in DS & _____)
+- Show interest
+  - What about their research interests you
+  - Read publications
+- Mention how your project idea connects with their research
+- What do you want out of the meeting (DS Advisor)
+- When can they meet & your availability
+- Closing statement/Thank them for their time
+
+:::{.notes}
+- Nothing says I don't care like an AI email
+:::
+
+## Focal points of email
+
+- There's a lot that goes into it
+  - Try to make it short
+- NEVER WRITE A DRAFT IN THE EMAIL
+- If reaching out to multiple advisors
+  - Don't copy + paste without some sort of system
+- Reread your email
+- Actually read about their research AND AT LEAST 1 PUBLICATION
+
+## What to read in their articles
+
+- Find their Google Scholar
+  - Check this against their faculty/lab website
+  - Choose the article that sounds interesting to you
+- Find something that matches to your idea
+  - [Article Example](https://arxiv.org/pdf/2608.27463)
+
+
+## Meeting with your (potential) advisor
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Be prepared when you meet with your advisor
+  - Come with agenda
+  - Recurring meetings (weekly vs biweekly)
+    - Send email with meeting notes
+  - Cancel if you don't have updates
+    - Do this sparingly
+
+- Know when it is your time to leave
+  - When agenda is complete, check in on anything else lingering
+:::
+
+::: {.column width="50%"}
+![](urinal.jpg){width="150px"}
+
+[Photo by Ketut Subiyanto](https://www.pexels.com/photo/men-at-urinals-4623548/)
+:::
+
+::::
+
+:::{.notes}
+- BE THERE ON TIME, OR EARLY
+
+- Negative bias (the focus on everything bad)
+
+- Biweekly meaning every other week, not twice a week (DON"T DO THAT)
+:::
+
+## Being prepared for your meeting
+
+- What goes into your agenda
+  - PhD, EdD, or other doctorate = Refer to them as Dr. always
+  - Be human
+    - Little conversation
+  - Explain your advisor idea OR
+  - Ask about any project ideas the advisor has
+    - What would they be willing to help you build an independent project around
+  - What is needed from you (trainings)
+  - Ask if they have seminal/crucial research that you should read
+  - Your assignments (getting approval of RQs & agreement on timeline)
+
+:::{.notes}
+- I'm the exception. Don't call me Dr.
+:::
+
+## "Small talk" for meeting with advisor
+
+- "How is your semester going?"
+- "Thanks for making time to have me here"
+- "I like your office"
+  - "Oh that is a cool ______ {notice something in their office}"
+- Chat about anything
+  - Advisors are human
+  - You're gonna have a relationship with them
+
+## Be prepared to change
+
+- NEVER fall in love with your research idea
+  - Destined for failure
+- Your idea will adapt from your original project
+- It could adapt as you read more literature
+- It may adapt because you don't have the capabilities to answer RQs
+  - Data doesn't answer the question
+  - You don't have the expertise to analyze it
+  - Many other reasons
+- Be realistic and kind to yourself
