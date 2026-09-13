@@ -31,7 +31,9 @@
 ]
 
 #let office_hours = [
-  #text(fill: red)[TBD]
+  Email to find time 
+  #linebreak()
+  #link("https://berkeley.zoom.us/j/2034924825")
 ]
 
 #let course_description = [

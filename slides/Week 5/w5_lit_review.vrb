@@ -1,0 +1,32 @@
+\frametitle{Keywords}
+\phantomsection\label{keywords}
+\begin{itemize}
+\tightlist
+\item
+  Use \texttt{AND}, \texttt{OR}, \texttt{()}, \texttt{-}, \texttt{""},
+  \texttt{\textasciitilde{}}, \texttt{*}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Artificial Intelligence OR AI
+  \item
+    Artificial Intelligence AND Learning
+  \item
+    (Artificial Intelligence OR AI) AND Learning
+  \item
+    (Artificial Intelligence OR AI) AND Learning AND -Deep (- = don't
+    include)
+  \item
+    (``Artificial Intelligence'' OR AI) AND Learning AND -``Deep
+    Learning'' (``\,'' = Look up exact term)
+  \item
+    (``Artificial Intelligence'' OR AI) AND (Learning OR
+    \textasciitilde education) AND -``Deep Learning'' (\textasciitilde{}
+    = Look up synonyms)
+  \item
+    (``Artificial Intelligence'' OR AI) AND ((Learning OR educat\emph{)
+    AND (college OR university OR ``higher education'')) AND -``Deep
+    Learning'' (} = Any word with the same beginning)
+  \end{itemize}
+\end{itemize}
