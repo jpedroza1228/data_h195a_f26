@@ -5,7 +5,11 @@ project:
 
 author: Jonathan A. Pedroza (JP) PhD
 
-format: beamer
+format:
+  beamer:
+    colorlinks: true
+    urlcolor: blue
+    linkcolor: blue 
   # revealjs:
   #   slide-number: true
   #   # transition: slide
@@ -15,10 +19,6 @@ format: beamer
   #   scrollable: true
   #   smaller: true
   #   theme: solarized
-  # beamer:
-    # theme: Berkeley
-    # colortheme: dove
-    # toc: false
 
 # jupyter: .venv/bin/python
 

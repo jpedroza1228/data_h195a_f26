@@ -9,20 +9,34 @@ date: today
 - If you've met with your potential advisor(s), how has your original idea changed?
   - If you haven't met with them, what field of research are you thinking of looking at to match research from your potential advisor(s)?
 
-- What are some keywords that come to mind when thinking about your research topic?
-
 ## JP's Response
 
 - Additional focal points
   - No longer focused on intervention design and now focused on prediction
   - Thinking through pros and cons of interviews vs focus groups
 
+## Announcement
+
+- Would you rather have November 17th be the first round of final assignment presentations?
+  - Thanksgiving week would be a check in + work on final written project
+  - **All** final presentations would need to be submitted by **November 17th**
+
+- Keep presentations for November 24th and have a lottery system for who gets to present on which day
+  - You would have to be here for both presentation days because part of the assignment is giving feedback
+
+## Keywords
+
+- What are some keywords that come to mind when thinking about your research topic?
+
 - Keywords include:
-  - Mathematics
-  - Self-efficacy OR self efficacy
-  - Grades
+  - Math*
+  - ("Self-efficacy" OR "self efficacy")
+  - Grade*
   - College OR university OR higher education
-  - Cluster
+  - Cluster*
+    - unsupervised
+    - ((latent AND "mixture modeling") OR class OR profile)
+    - Specific clustering alogorithms
 
 ## How to Look for Articles
 
@@ -32,7 +46,12 @@ date: today
 
 - Use forward & backward searches
 
-- AI Options
+- AI Options*
+
+## AI Use
+
+![](cat_paw.jpg)
+[Photo by Aleksandar Cvetanovic](https://www.pexels.com/photo/orange-cat-foot-on-laptop-keyboard-1440387/)
 
 ## How to Look for Articles
 
@@ -118,7 +137,7 @@ date: today
 
 ## AI Options
 
-- [Consensus](conensus.app)
+- [Consensus](https://consensus.app/)
 
 - [Elicit](https://elicit.com/solutions/search)
 
@@ -182,36 +201,59 @@ date: today
 - Read **abstracts only** the first time through
 
 - Save articles you think may be useful
+  - Zotero
 
-- Then you can read the articles
+- Then you read the articles
+
+## Example Article
+
+- [Incorporating Deep Learning Into System Dynamics](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sdr.1798)
+
+- Use your own article if you want
 
 ## Abstracts
 
-- 
+- Is this relevant?
+  - No --> move on
+  - Yes --> save to Zotero
 
 ## Introduction
 
-- 
+- New topic = read
+  - Citations may be helpful for developing research idea
+  - Know about the topic --> ignore/skim
+  - Look at the final paragraph in this section --> RQs/hypotheses/aims/purpose/etc.
+- Contains theory
 
 ## Methods
 
-- 
+- Very important (expect to add a lot here in annotated bibliographies)
+- Contains protocol for data collection
+- Cleaning methods
+- Description of data
+- Analytic Technique
+- What the researchers did
 
 ## Results
 
-- 
+- Main findings of the study
+  - Dense ()
+- I usually read it to get specifics
+  - Actual estimation values
 
 ## Discussion/Conclusion
 
-- 
+- Reports findings in clear terms
+  - If something is interesting here THEN go to the results to understand more
+- I write out main findings of the study in my annotated bibliographies
 
 ## Future Studies/Limitations
 
-- 
+- Can find inspiration of how you might be able to expand on research that has been completed
+- You can also take some of the future direction(s) and apply it to your work
+  - If relevant
 
-## Get an Article
-
-- 
+## If you haven't already, get an article
 
 ## Annotated Bibliographies
 
@@ -228,3 +270,11 @@ date: today
 
 - If you would like to use a document instead
   - [Link here for example document](https://docs.google.com/document/d/13HKVF_CSMAKfT0NoHcd5H4DejZu19BxKZua_tgHF2Lo/edit?usp=sharing)
+
+## Annotated Bibliographies Assignment
+
+- Due Oct 4th at 11:59pm
+
+- ~10 articles
+  - No lower or upper cap
+  - This is for you; you decide how many articles you need
