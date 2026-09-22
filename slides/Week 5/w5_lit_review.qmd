@@ -4,15 +4,34 @@ subtitle: "Literature Review"
 date: today
 ---
 
+## Before our icebreaker
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Can we just talk about the awesome job you all did giving short elevator pitches
+- [Feedback survey](https://forms.gle/hA8WFV7E71GPd3ze6)
+- [Slides from guest lecture can be found here](https://ucblib.link/DH2026)
+- [Events from the library or related organizations](https://events.berkeley.edu/library/all/tags/Library%20Workshops)
+:::
+
+::: {.column width="50%"}
+![](applause.jpg){width="60%"}
+- [Photo by Samuel Phillips](https://www.pexels.com/photo/vibrant-concert-crowd-with-confetti-shower-30207418/)
+:::
+
+::::
+
 ## Today's Icebreaker
 
-- If you've met with your potential advisor(s), how has your original idea changed?
-  - If you haven't met with them, what field of research are you thinking of looking at to match research from your potential advisor(s)?
+- If you've met with your potential advisor(s), how was your meeting? Has your original idea changed?
+  
+- If you haven't met with them, what field of research are you thinking of looking at to match research from your potential advisor(s)?
 
 ## JP's Response
 
 - Additional focal points
-  - No longer focused on intervention design and now focused on prediction
+  - No longer focused on intervention design and now focused on inferences for entire class
   - Thinking through pros and cons of interviews vs focus groups
 
 ## Announcement
@@ -23,6 +42,147 @@ date: today
 
 - Keep presentations for November 24th and have a lottery system for who gets to present on which day
   - You would have to be here for both presentation days because part of the assignment is giving feedback
+
+
+## Rules
+
+- Seminal papers can be from any time
+  - Usually someone has written about seminal papers to update them
+
+- Empirical papers
+  - Papers that run some form of analysis
+  - Past ~10 years
+    - Field dependent
+
+- Understand the hierarchy of evidence when gathering literature
+
+## Hierarchy of Evidence
+
+![](Hierarchy_of_Evidence.png){width="60%"}
+
+## Types of References to Use
+
+- Non-academic articles
+  - Online research briefs (e.g., Pew Research Center)
+  - Mainly used in hook of introduction
+
+- Peer-reviewed articles/conference proceedings
+  - Empirical research
+  - Systematic Reviews/Scoping Reviews/Meta-Analyses
+
+## Find Research Topic
+
+- Central idea for your research
+
+- Should be researched if
+  - There is a gap in the literature
+  - You have access to data that would answer the topic
+  - Advances your academic career
+
+## Point of the Lit Review
+
+- Provides a framework showing importance of this research
+
+- You build your argument with supporting or contradicting findings
+
+- Helps solidify your research topic when identifying the gap(s) in the literature
+
+## Literature Maps
+
+- Map out how your literature will support your argument
+  - Create categories to organize your paper into
+  - Google [NotebookLM](https://sites.google.com/view/notebook-lm)
+
+- Thinking like this can help with the writing process (when we get there)
+
+## How to read articles
+
+- If using AI, go ahead and use that for your initial search
+
+- Read **abstracts only** the first time through
+
+- Save articles you think may be useful
+  - Zotero
+
+- Then you read the articles
+
+## Example Article
+
+- [Exploring Approaches for Estimating Parameters in Cognitive Diagnosis Models with Small Sample Sizes](https://www.mdpi.com/2624-8611/5/2/23)
+
+- Use your own article if you want
+
+## Abstracts
+
+- Is this relevant?
+  - No --> move on
+  - Yes --> save to Zotero
+
+## Introduction
+
+- New topic = read
+  - Citations may be helpful for developing research idea
+  - Know about the topic --> ignore/skim
+  - Look at the final paragraph in this section --> RQs/hypotheses/aims/purpose/etc.
+- Contains theory
+
+## Methods
+
+- Very important (expect to add a lot here in annotated bibliographies)
+- Contains protocol for data collection
+- Cleaning methods
+- Description of data
+- Analytic Technique
+- What the researchers did
+
+## Results
+
+- Main findings of the study
+  - Dense ()
+- I usually read it to get specifics
+  - Actual estimation values
+
+## Discussion/Conclusion
+
+- Reports findings in clear terms
+  - If something is interesting here THEN go to the results to understand more
+- I write out main findings of the study in my annotated bibliographies
+
+## Future Studies/Limitations
+
+- Can find inspiration of how you might be able to expand on research that has been completed
+- You can also take some of the future direction(s) and apply it to your work
+  - If relevant
+
+## If you haven't already, get an article
+
+## Annotated Bibliographies
+
+- Different philosophies of how to create annotated bibliographies
+  - Short paragraphs with all information (~150 words)
+    - Feels like another abstract
+
+- Spreadsheets
+
+## Example
+
+- Make a copy or you could make something similar
+  - [Link here for example spreadsheet](https://docs.google.com/spreadsheets/d/1plQjbtrMaPI9DM4vQAvvtYT2diX3pFjHXNdHUDxG0xE/edit?usp=sharing)
+
+- If you would like to use a document instead
+  - [Link here for example document](https://docs.google.com/document/d/13HKVF_CSMAKfT0NoHcd5H4DejZu19BxKZua_tgHF2Lo/edit?usp=sharing)
+
+## Annotated Bibliographies Assignment
+
+- Due Oct 4th at 11:59pm
+
+- ~10 articles
+  - No lower or upper cap
+  - This is for you; you decide how many articles you need
+
+## Try it out!
+
+- Let's take ~15 minutes to start on annotated bibliographies
 
 ## Keywords
 
@@ -142,139 +302,3 @@ date: today
 - [Elicit](https://elicit.com/solutions/search)
 
 - Make sure to double check references
-
-## Rules
-
-- Seminal papers can be from any time
-  - Usually someone has written about seminal papers to update them
-
-- Empircal papers
-  - Papers that run some form of analysis
-  - Past ~10 years
-    - Field dependent
-
-- Understand the hierarchy of evidence when gathering literature
-
-## Hierarchy of Evidence
-
-![](Hierarchy_of_Evidence.png){width="60%"}
-
-## Types of References to Use
-
-- Non-academic articles
-  - Online research briefs (e.g., Pew Research Center)
-  - Mainly used in hook of introduction
-
-- Peer-reviewed articles/conference proceedings
-  - Empirical research
-  - Systematic Reviews/Scoping Reviews/Meta-Analyses
-
-## Find Research Topic
-
-- Central idea for your research
-
-- Should be researched if
-  - There is a gap in the literature
-  - You have access to data that would answer the topic
-  - Advances your academic career
-
-## Point of the Lit Review
-
-- Provides a framework showing importance of this research
-
-- You build your argument with supporting or contradicting findings
-
-- Helps solidify your research topic when identifying the gap(s) in the literature
-
-## Literature Maps
-
-- Map out how your literature will support your argument
-  - Create categories to organize your paper into
-  - Google [NotebookLM](https://sites.google.com/view/notebook-lm)
-
-- Thinking like this can help with the writing process (when we get there)
-
-## How to read articles
-
-- If using AI, go ahead and use that for your initial search
-
-- Read **abstracts only** the first time through
-
-- Save articles you think may be useful
-  - Zotero
-
-- Then you read the articles
-
-## Example Article
-
-- [Incorporating Deep Learning Into System Dynamics](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sdr.1798)
-
-- Use your own article if you want
-
-## Abstracts
-
-- Is this relevant?
-  - No --> move on
-  - Yes --> save to Zotero
-
-## Introduction
-
-- New topic = read
-  - Citations may be helpful for developing research idea
-  - Know about the topic --> ignore/skim
-  - Look at the final paragraph in this section --> RQs/hypotheses/aims/purpose/etc.
-- Contains theory
-
-## Methods
-
-- Very important (expect to add a lot here in annotated bibliographies)
-- Contains protocol for data collection
-- Cleaning methods
-- Description of data
-- Analytic Technique
-- What the researchers did
-
-## Results
-
-- Main findings of the study
-  - Dense ()
-- I usually read it to get specifics
-  - Actual estimation values
-
-## Discussion/Conclusion
-
-- Reports findings in clear terms
-  - If something is interesting here THEN go to the results to understand more
-- I write out main findings of the study in my annotated bibliographies
-
-## Future Studies/Limitations
-
-- Can find inspiration of how you might be able to expand on research that has been completed
-- You can also take some of the future direction(s) and apply it to your work
-  - If relevant
-
-## If you haven't already, get an article
-
-## Annotated Bibliographies
-
-- Different philosophies of how to create annotated bibliographies
-  - Short paragraphs with all information (~150 words)
-    - Feels like another abstract
-
-- Spreadsheets
-
-## Example
-
-- Make a copy or you could make something similar
-  - [Link here for example spreadsheet](https://docs.google.com/spreadsheets/d/1plQjbtrMaPI9DM4vQAvvtYT2diX3pFjHXNdHUDxG0xE/edit?usp=sharing)
-
-- If you would like to use a document instead
-  - [Link here for example document](https://docs.google.com/document/d/13HKVF_CSMAKfT0NoHcd5H4DejZu19BxKZua_tgHF2Lo/edit?usp=sharing)
-
-## Annotated Bibliographies Assignment
-
-- Due Oct 4th at 11:59pm
-
-- ~10 articles
-  - No lower or upper cap
-  - This is for you; you decide how many articles you need

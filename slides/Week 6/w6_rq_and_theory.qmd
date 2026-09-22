@@ -3,3 +3,54 @@ title: "Week 1"
 subtitle: "Research Questions, Hypotheses, and Theory"
 date: today
 ---
+
+## Icebreaker
+
+## JP's Response
+
+## Let's talk literature
+
+## Research Questions (RQs), Hypotheses, Aims, Purpose???
+
+## RQs for Qualitative Analyses
+
+## RQs for Quantitative (Inferential) Analyses
+
+## RQs for Quantitative (Predictive) Analyses
+
+## Hypotheses
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Does not belong in a hypothesis EVER! 
+  - "and" clearly indicates two parts of a hypothesis or two hypotheses
+
+- Requirements
+  - Can be tested
+  - Does not include "and"
+  - Wording must match your analysis(es) --> affect = causal language
+  - Directionality 
+:::
+
+::: {.column width="40%"}
+![](crying_baby.jpg)
+[Photo by Pixabay](https://www.pexels.com/photo/close-up-photo-of-crying-baby-47090/){width="60%"}
+:::
+
+::::
+
+## BIG NO NOs
+
+- Once you state your hypothesis and look at data there is no going back
+  - Funding agencies now require authors to have 
+  - The reality is that many academics don't follow this rule
+
+## Aims
+
+## Purpose statement
+
+
+## What is a theory/theoretical framework?
+
+## 
