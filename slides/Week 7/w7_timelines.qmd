@@ -3,3 +3,48 @@ title: "Week 7"
 subtitle: "Research Timelines"
 date: today
 ---
+
+## Announcement
+
+- [Complete the following spreadsheet](https://docs.google.com/spreadsheets/d/1_pND31elshiIxsh6XVmmmPLcIaF9DYQOWV44SLz38lM/edit?usp=sharing)
+
+## How granular should your timeline be?
+
+- Daily
+- Weekly
+- Biweekly
+- Monthly
+
+## Creating a timeline
+
+- Include everything you think may come up
+- Give yourself more time than you think something will take
+  - It will take longer
+- Add times to go back to certain topics on your timeline
+- This is a rough draft; it does not need to be perfect
+
+## Timeline Template
+
+- [Timeline template; please make a copy](https://docs.google.com/spreadsheets/d/1CcNI_RXY187Av4RBh147aZj1S-Lqr3uXueiOQR8o_1E/edit?usp=sharing)
+
+## What are potential bottlenecks
+
+- Unexpected topics
+  - CITI training
+  - Specialized training for data collection
+  - Waiting on someone to gain access to data
+  - Advisor decides no longer to be your advisor
+  - Any other thing that could go wrong
+    - Merging and overwriting code on GitHub
+  - Pivots on research topic based on new research or new lab findings
+
+## Add a second tab
+
+- [SMART goals](https://www.ucop.edu/local-human-resources/_files/performance-appraisal/How+to+write+SMART+Goals+v2.pdf)
+- Add your weekly goals to your timeline to help you stay on track
+
+## Second Announcement
+
+- Going to use the rest of the time to see how I can help you
+- If you feel confident in where you are, you can leave
+  - **This may be the only time (outside of office hours) where I can help with your project**
