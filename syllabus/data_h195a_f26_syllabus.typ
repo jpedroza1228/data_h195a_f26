@@ -384,7 +384,7 @@
 ]
 
 #let week13_topic = [
-  Research ethics & integrity
+  Student Presentations
 ]
 
 #let week13_assignment = [
@@ -392,7 +392,7 @@
 ]
 
 #let week14_topic = [
-  Student Presentations
+  Check ins through Zoom
 ]
 
 #let week14_assignment = [

@@ -3,3 +3,176 @@ title: "Week 8"
 subtitle: "Introduction to Academic Writing"
 date: today
 ---
+
+## Check ins
+
+- What experiences do you have with academic writing? 
+- How would you rate your own writing?
+- What worries do you have for academic writing?
+
+## Introductions
+
+- We'll cover introductions
+- Literature reviews
+- Next week, we'll cover methods
+- Later this semester, we'll talk about structuring discussion sections
+
+## Finding Time to Write
+
+- Pebble
+  - 15-30 minutes
+- Rock 
+  - 30 minutes to 1 hour
+- Boulder
+  - 1 hour+
+
+## What Goes Into Academic Writing
+
+- Arguments
+- Connections to past research
+  - Citations
+- RQs, hypotheses, purpose statement
+
+## What Does Not Go Into Academic Writing
+
+- Reflections
+- How you feel about the topic
+- Making claims without evidence
+
+## Examples
+
+- Students who feel supported do better in data science courses
+- There is a need to further examine support systems for students in data science courses
+- Students in data science courses use AI more than other disciplines
+- Data science includes computing, statistics, and domain knowledge
+
+## Importance of Introductions
+
+- Set the stage for your project
+- Creates interest from audicnece
+- Points out issues in the current literature
+- Shows why the outcome you are interested in is a problem
+- Places your study within a larger context
+
+## Academic Writing Is a Funnel (Big Picture --> Specifics)
+
+- Talk about the overall problem
+- What we know about the outcome/problem
+- Talk about the literature focusing on the role of predictor(s) on outcome
+- Your contribution to the literature + where there is disagreement in literaure
+- Theory
+- Purpose + RQs + Hypotheses
+
+## Overall Problem
+
+- State what the problem is
+  - Math readiness is bad in college
+- Literature on math readiness
+- The role of self-efficacy on math readiness
+- Self-efficacy's relationship with math readiness looks different for students because of systematic issues (high school funding, high school teacher math competency)
+  - Explore these differences by examining high schools across the United States from different income brackets
+- Social Cognitive Theory: interactions among intrapersonal factors (self-efficacy), behaviors (math readiness), environment (funding, math teacher competency)
+- Purpose
+
+## Citing
+
+- You will fail this class if you only submit quotes for citations
+- Paraphrase what you are referencing
+- I will only allow 1 quote per paper, any more quotes = 0 on the paper
+- Quoting is lazy writing
+
+## Primary & Secondary Sources
+
+- **DO NOT** cite papers referenced from another paper
+- A paper in the introduction citing another paper
+  - **Read the original paper**
+- Most authors barely read the article(s) they are citing
+  - Authors misinterpret findings
+  - They could paraphrase something differently
+
+## Introductions/Literature Reviews/Related Works are Field Dependent
+
+- Association for Computing Machinery (ACM) conference proceedings
+  - Introduction is composed of stating the problem
+  - The purpose of your project
+  - What you did in your project
+  - The usefulness of your project
+  - Think of it as a mini paper in your paper
+
+## Field Dependent Introduction
+
+- The rest of the introduction focuses on literature
+  - This will follow the rest of the slides
+- **Base your paper on the literature you are reading**
+  - My field combines introduction + literature review
+  - Others have short introduction + more extensive literature reviews
+
+## First Paragraph in an Introduction
+
+- Hook your audience into wanting to continue reading
+  - Give your audience a number that shows them why your project is worth examining
+  - ["One in 12 incoming students tested below middle school proficiency in mathematics"](https://ls.berkeley.edu/news/how-uc-berkeley-closing-math-readiness-gap)
+    - Secondary source to [this article](https://www.insidehighered.com/news/quick-takes/2025/11/12/uc-san-diego-sees-students-math-skills-plummet)
+    - From the primary source [here](https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf)
+  - You don't need a thesis statement like in argumentative papers
+    - Your purpose statement is the final paragraph in the introduction
+
+## Second Paragraph in Introduction
+
+- Focus your audience's attention to justify the importance of the problem
+  - Why this outcome needs to be further investigated/studied?
+- Could include a systematic review on why your outcome needs to be further studied
+  - Shows the extent of how much literature has covered your project topic
+- End with a statement on why you are examining as predictors
+- Ex: Math readiness is dropping by the time students get to college/university
+    - Literature overall on math readiness in the US is bad
+    - Math readiness is lower in elementary and high school which shows this starts early
+    - That is why there is a need to explore students' math self-efficacy
+
+## Body Paragraphs in Introduction
+
+- Reference the examination of a specific variable (inferential) OR literature on variables influence on the outcome (predictive analyses)
+- Ex: Self-efficacy has been studied as a predictor of math readiness
+  - Literature supporting/refuting/both
+- With large amounts of literature on the topic --> focus on specifics that relate to your project
+  - Self-efficacy in college students
+- Transition to other variables/what is missing
+
+## Theory (if including)
+
+- Find literature testing theory
+- Add how your project is informed by your theory
+- Cite your theory
+
+## Final Paragraph in Introduction
+
+- "From these mixed findings, there is more a reason to focus on..."
+- "Therefore, the purpose of this study is..."
+- RQs
+- Hypotheses
+
+## Writing
+
+- Start by writing
+  - Write anything
+  - Put headers for sections to somewhat organize the draft
+- Indicate where you'll put your citations
+  - Paraphrase your citations
+- Edit
+- Edit
+- Edit
+
+## JP's Writing Steps
+
+- I read my literature + annotated bibliographies
+- Either
+  - Write a statement for each of my annotated bibliographies in a blank document
+  - Start writing and then put CITE whenever I know I have something from my annotated bibliographies to include there
+- Then fill in the blanks
+- Reread sections and then change citations or go back to my annotated bibliographies to rewrite the statement to include in the introduction
+- Write in order of:
+  - Purpose statement
+  - Opening paragraph
+  - Second paragraph
+  - Body paragraphs
+  - Theory
