@@ -6,9 +6,7 @@ date: today
 
 ## Check ins
 
-- What experiences do you have with academic writing? 
-- How would you rate your own writing?
-- What worries do you have for academic writing?
+- [Check in on Google Sheet](https://docs.google.com/spreadsheets/d/1_pND31elshiIxsh6XVmmmPLcIaF9DYQOWV44SLz38lM/edit?gid=2146231546#gid=2146231546)
 
 ## Introductions
 
@@ -76,7 +74,7 @@ date: today
 
 ## Citing
 
-- You will fail this class if you only submit quotes for citations
+- You will fail your final paper assignment if you submit multiple quotes for your cited work
 - Paraphrase what you are referencing
 - I will only allow 1 quote per paper, any more quotes = 0 on the paper
 - Quoting is lazy writing
@@ -106,6 +104,16 @@ date: today
 - **Base your paper on the literature you are reading**
   - My field combines introduction + literature review
   - Others have short introduction + more extensive literature reviews
+
+## Your turn
+
+- Let's try and get a rock level of writing completed.
+
+## Writing
+
+- What experiences do you have with academic writing? 
+- How would you rate your own writing?
+- What worries do you have for academic writing?
 
 ## First Paragraph in an Introduction
 
@@ -146,7 +154,7 @@ date: today
 
 ## Final Paragraph in Introduction
 
-- "From these mixed findings, there is more a reason to focus on..."
+- "From these mixed findings, there is a need to focus on..."
 - "Therefore, the purpose of this study is..."
 - RQs
 - Hypotheses
