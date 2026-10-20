@@ -3,3 +3,165 @@ title: "Week 9"
 subtitle: "Methods"
 date: today
 ---
+
+## Check-ins
+
+- [Spreadsheet here](https://docs.google.com/spreadsheets/d/1_pND31elshiIxsh6XVmmmPLcIaF9DYQOWV44SLz38lM/edit?gid=2055160560#gid=2055160560)
+
+## What Should Methods Include
+
+- Everything you did
+  - Then you start to remove text when you are running out of space
+- Excluding content leads to the reproducibility crisis
+  - [Biomedical Research](https://pubmed.ncbi.nlm.nih.gov/39794788/)
+  - [Software Engineering](https://arxiv.org/pdf/2512.00651)
+  - [Social Sciences](https://reference-global.com/download/article/10.5334/irsp.1038.pdf)
+
+## Methods Specifics
+
+- Participants
+- Materials & Measuers
+- Procedures
+- Analytic Plan
+- More than just this though
+  - Additional content depends on your:
+    - Field
+    - Content area
+    - Journal/Guidelines for research paper/poster
+
+## Analyses
+
+- Power analyses
+  - [pwr package in R](https://www.geeksforgeeks.org/data-analysis/power-analysis-in-statistics-with-r/)
+  - [Power analysis in Python](https://www.geeksforgeeks.org/python/introduction-to-power-analysis-in-python/)
+    - [Another link for power analysis in Python](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
+- DO THIS BEFORE ANALYSES
+  - Post-hoc power analyses give you a noisy estimate from using observed power (size of effect) vs proposed population effect (hypothetical power)
+  - [Andrew Gelman's interpretation of post-hoc power analyess](https://statmodeling.stat.columbia.edu/2019/01/13/post-hoc-power-calculation-like-shit-sandwich/)
+
+## Power Analyses
+
+![[Photo by Carlos Jamaica](https://www.pexels.com/photo/people-in-football-stadium-13069970/)](large_group.jpg)
+
+## Participants
+
+- Is the same for (quasi) experiments and surveys
+- Type of sampling (Random sampling? Random Assignment?)
+  - How were people sampled?
+  - How many people were sampled?
+  - Who are these people?
+  - Why were they sampled?
+  - When were they sampled?
+  - Where were they sampled (generally)?
+
+## Participants
+
+- Criteria for participation
+- Exclusion criteria
+- Cross sectional vs longitudinal
+- Is this data part of a larger study?
+  - Cite that study
+
+## Materials
+
+- This includes how you operationalized variables in your study
+- Variables included in the analyses
+  - Variable type, how variables are coded
+    - Specific coding
+  - cross-sectional/longitudinal/cohort-design
+- Include how demographic variables were coded
+- Measures
+  - Need to include reliability and validity of measures
+  - Cite references of original measures
+- If using measures you created, add more detail about what you used
+
+## Procedures
+
+- Everything that you plan to do/are doing/did in your research project
+- Write about what you did in your study **in detail**
+- Did you introduce some sort of stimuli?
+- Was there deception?
+- More detail helps with the reporducibility crisis
+- How did you separate into groups
+- Cross-sectional/longitudinal
+  - Pre/post
+  - Multiple time points
+
+## Analytic Plan
+
+- Data cleaning procedure
+- Data processing steps
+- Tools/software used
+- Model(s) tested
+- Fit metrics
+
+## Data Cleaning
+
+- How much data was collected originally
+  - How much missing data
+- Nonresponse rate
+- How were outliers dealt with
+  - JP Note: Don't remove outliers from data as first step
+    - Look into the problem before removing data
+- Identifying and removing non-serious responses
+  - Figure out if data points are likely to be non-serious responses
+- Leave comments on your script/Leave notes on a notebook/document
+
+## Data Processing
+
+- Training/test split percentages and method 
+- Standardizing variables/features
+- How was missing data addressed (median, mean, multiple imputation)
+- Feature selection/engineering
+- Encoding (e.g., dummy/One-hot, etc.)
+- Anything you propose here may require citations to support your reasoning
+
+## Tools/Software
+
+- What did you use to analyze data?
+- Version numbers should be included as well
+- Can also provide a link to libraries used in GitHub
+- Library citations are also helpful for authors, especially for open-source projects
+
+## Model(s)
+
+- Explain why you chose specific models to test
+- Make sure the models you are testing are comparable
+- Linear regressions without interactions != ensemble models
+  - Do extra work in preprocessing to make the models you compare actually comparable
+
+## Fit Metrics/Model Evaluation
+
+- Choose the fit metrics BEFORE you run analyses
+- Could list as many as you want
+- Could list metrics that are consistent with the literature you've read
+- Could list metrics consistent with your goal (e.g., precision, recall, f1 score)
+- Should have fit metrics that match the bottom two bullet points
+
+## Introducing Figures to Methods
+
+- Sometimes your work can only be shown through figures
+  - This could be a workflow diagram, a screenshot of stimuli, etc.
+- If making a diagram, make sure the font matches your paper's text
+- Your figures should be standalone information
+  - Captions for clarification should be the only text
+
+## DOUBLE CHECK YOUR WORK
+
+- You will forget something GUARANTEED
+- Maybe you didn't code a variable correctly
+  - Treated a categorical variable as a numeric variable
+- Maybe you interpreted a finding on the wrong scale
+- Reporting the wrong finding because you were tired
+- Accidentally typed out the wrong value, making the finding that much more impressive than it actually is
+
+## Let's Review Some Papers
+
+- Break into groups based on type of methods your project will employ
+  - AI
+  - Predictive analyses
+  - "experiment" article
+
+## Methods Pebble
+
+- Take 15 minutes to write down what you know about your methods
