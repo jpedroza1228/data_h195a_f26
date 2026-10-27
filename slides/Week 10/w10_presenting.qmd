@@ -3,3 +3,199 @@ title: "Week 10"
 subtitle: "Presenting to Different Audiences"
 date: today
 ---
+
+## Check-ins
+
+-   [Spreadsheet here](https://docs.google.com/spreadsheets/d/1_pND31elshiIxsh6XVmmmPLcIaF9DYQOWV44SLz38lM/edit?gid=2055160560#gid=2055160560)
+
+## Why Tailor Presentations?
+
+-   Similar to my slides, you will probably bore people
+-   Academics get taught how to talk to researchers and other academics
+    -   Many are terrible at working with stakeholders outside of academia
+    -   [Many researchers see journals, conferences, and funding reports as dissemination](https://pmc.ncbi.nlm.nih.gov/articles/PMC6853327/)
+
+## Implementation & Dissemination
+
+-   Entire field on how researchers can assess/study those implementing interventions/etc. and sharing findings
+    -   [Using standardized materials](https://teaching.berkeley.edu/resources/course-evaluations-question-bank) you can evaluate the effectiveness of practitioners implementing something you are interested in
+    -   Entire theoretical frameworks around this topic
+        -   [RE-AIM website](https://re-aim.org/resources-and-tools/figures-and-tables/)
+-   Dissemination on how to share research findings in ways that reach your target audience
+    -   There is a lot of literature on this field
+
+## Think About Who Will Come Up To Your Poster
+
+-   Would you explain your project in the same manner to the general public as you would
+-   Students?
+-   Postdocs?
+-   Staff?
+-   Faculty?
+
+## Questions You Might Receive
+
+-   Why does this matter?
+-   What is the point of this study?
+-   Why did you do *this* instead of *that*?
+-   Why didn't you have AI do this?
+-   Tell me why I should care.
+-   These are all questions/comments I have received
+    -   Can you respond in a single sentence?
+
+## Dissemination Adapted for Posters
+
+-   Create a dissemination plan to address:
+    -   Purpose of disseminating research
+    -   Audience
+    -   Key message to be shared (takeway for anyone)
+    -   Methods for dissemination (materials/activities)
+    -   Timing of dissemination
+    -   Process of evaluating success of dissemination
+
+## For Academics
+
+-   What is the problem you wanted to address
+-   Talk about the background literature
+    -   What informed your research idea
+-   Transition to your RQs
+-   Give me brief overview of methods
+-   Takeaways for the findings
+    -   This is more a poster design topic
+-   Discussion
+    -   Flip it around with questions for audience
+    -   Next steps and areas for collaboration
+
+## Stakeholders
+
+-   Problem statement
+    -   Why did you do your study?
+    -   What is the big picture answer to why you did the study
+    -   Why does this research matter *past* academia
+-   Who is affected
+-   What decisions can be made from the findings
+-   How are you extending the reach of this study?
+
+## Practitioners
+
+-   Problem being addressed
+-   What you did (methods) at a high level
+    -   Technical jargon loses interest
+-   Takeaways
+-   Discussion points
+    -   What can they tell clients/staff/managers/stakeholders
+
+## General Public
+
+-   Can you explain the complicated parts of your research/methods in as simple of terms as possible
+-   Analogies are your friend
+-   Be prepared for comments that may not be directly related to your research
+    -   How do you direct that to come back into
+
+## Practice Makes Perfect
+
+-   I know most of you will not practice your presentations
+-   Reason for having small group presentations
+-   Practice your presentation multiple times before giving it to a group
+    -   Transitions can be useful but you need to know where they are in your slides
+-   Time yourself on specific sections
+
+## For Presentations Next Week
+
+-   Have slides (to both submit and present)
+-   Think about what audiences will show up at your poster
+    -   Sell us your research project
+-   Have your elevator pitch ready
+-   When you finish your presentation, think of weak areas
+    -   That is where your questions will come up
+
+## Example Presentations
+
+-   Create a title for your presentation
+    -   Keep it under 12-15 words
+-   Elevator Pitch
+    -   Problem statement (no time for background information)
+        -   "This is a problem and it has be examined before; however, there is a gap..."
+    -   Your purpose statement/aim(s)/RQs/hypothesis(es)
+    -   What you are doing in your study (Methods)
+    -   What are you hoping to find?
+-   Someone in each group will time each elevator pitch
+
+## Example Presentations
+
+-   Walk audience through your project
+-   Present your background information
+-   Show how you came to your RQs
+-   State what the purpose of your research is
+
+## Example Presentations
+
+-   Cover everything for your methods
+    -   Be as thorough as possible
+-   If you are unsure about your methods, propose multiple methods
+    -   Get feedback on pros and cons
+
+## Example Presentations
+
+-   Audience is responsibe for each asking questions and offering feedback
+    -   These will serve as your assignments as feedback
+    -   I will configure how to leave comments on the presentation through bcourses
+-   The point of this is to help find gaps in each other's research projects
+-   If something is not clear, ask for clarification
+
+## Disseminating Your Project
+
+-   I like this [research study on innovative dissemination](https://pmc.ncbi.nlm.nih.gov/articles/PMC7161944/)
+    -   Partially because they give a list of rules and that means less reading for me
+
+## Think About Disseminating Results Beyond the Poster
+
+-   Disseminate to the public
+    -   LinkedIn
+    -   Website portfolio
+    -   Twitter/BlueSky/Mastodon
+-   Change how you present methodology and findings
+
+## Rules of Dissemination
+
+1.  Get the Basics Right
+
+-   Define objectives, map audience, frame message
+
+2.  Keep the Right Profile
+
+-   Use social media + personal website to expand on research
+
+3.  Encourage Participation
+
+-   Open source, invite others for collaboration
+
+4.  Open Science for Impact
+
+-   Open access pubs/preprints, publish datasets
+
+5.  Remix Traditional Outputs
+
+-   Blog posts in addition to research papers
+
+## Rules of Dissemination
+
+6.  Go Live
+
+-   Talk about your research in less common areas
+
+7.  Think Visual
+
+-   Use art or multimedia interpretations
+
+8.  Respect Diversity
+
+-   Reach should be inclusive
+
+9.  Find the Right Tools
+
+-   Use tools that will be most effective for disseminating your work
+
+10. Evaluate, Evaluate, Evaluate
+
+-   Assess your dissemination activities
+-   What works? Why doesn't something work?
