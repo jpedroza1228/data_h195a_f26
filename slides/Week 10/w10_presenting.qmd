@@ -199,3 +199,12 @@ date: today
 
 -   Assess your dissemination activities
 -   What works? Why doesn't something work?
+
+## Data H195B
+
+- Course: DATA H195B
+- Day: Mondays
+- Time: 3:30–5:00 p.m.
+- Location: Gateway, Room B1012
+- Instructor: Narges Norouzi
+- Semester: Spring 2027
