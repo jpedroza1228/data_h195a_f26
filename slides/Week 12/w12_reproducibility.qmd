@@ -3,3 +3,177 @@ title: "Week 12"
 subtitle: "Reproducibility & Data Management"
 date: today
 ---
+
+## Check-ins
+
+- Email me your current advisor situationship
+  - Even if you have an advisor
+  - We have 3-4 weeks left
+-   [Spreadsheet here](https://docs.google.com/spreadsheets/d/1_pND31elshiIxsh6XVmmmPLcIaF9DYQOWV44SLz38lM/edit?gid=2055160560#gid=2055160560)
+
+## Data Documentation
+
+- It is important to have documentation of your project, especially when collaborating with others
+- One of my favorite resources
+  - [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/)
+    - Level of aggregation and cleaning before sharing
+- If using advisor's data, this becomes even more important since there could be legal issues if mistakes are made, like data leakage
+
+## Documentation
+
+- Variables
+  - Make sure data types are stated
+  - Variable types
+  - Operationalization of variables
+  - Units of measurement
+  - Missing data
+    - Missing data rules 
+    - How data will be imputed
+
+## Documentation
+
+- Descriptions of workflows
+- Access permissions fr specific variables
+  - Unit of analysis level 
+- Staying within the scope of regulating organizations (HIPAA)
+
+## Codebook
+
+- I like to have a specific file that has more information about each of my variables
+- Codebooks are especially important for longitudinal data/cohort design tables
+  - Makes data manipulation consistent across different data collection points
+  - Also makes it transparent when mistakes are made
+    - Coding of variables inconsistently happens
+- Putting it in a Jupyter notebook/Quarto document allows for more organization
+
+## Codebook Example
+
+- We'll focus on the CESD, a common measure for depressive symptoms
+  - [You can follow along here](https://journals.sagepub.com/doi/pdf/10.1177/014662167700100306)
+- What to include
+  - Name of variable(s)
+    - variable name in dataset
+  - Data type
+  - Variable type
+    - Recommendations for transformations
+    - Scoring to make more sense --> new variable name(s)
+  - Scale/Range of variable
+  - Some people include descriptives (M, SD, range, etc.)
+  - Skip logic in questions
+  - Logical ways to get composite scores
+    - Positive affect & Depressive symptoms
+  - Rules for missing data
+  - Amount of missing data
+  - References (bibtex can be used in documents)
+    - Articles of interest
+
+## Codebook
+
+- Include relevant information
+  - Visualize missing data
+  - Visualize distribution(s)
+  - Render table(s) for potential problematic values
+  - Define cutoffs from previous literature
+  - Recoding based on 
+
+## Reproducibility & Open Source
+
+- Having your code in a public space shows reproducibility
+
+- Public repos showcase
+  - Your code changes through commit history
+  - Decision making
+  - If you try to hide something
+    - Setting a seed/state for analyses and then changing it
+- Sharing everything about your project
+  - May not be feasible for some of your projects
+- Opens the door for collaborations with outside researchers
+
+## Open Science
+
+- Making research equitable by making everything in the research process more accessible
+- Openly sharing
+  - Software and code
+  - Data*
+  - Published research articles
+  - APIs
+- Makes it more reproducible too
+  - When others have your code and data, they can double check your work to make sure the findings are accurate
+- **Data may not always be completely raw**
+  - Still need to protect identities for participants/subjects
+
+## Open Science
+
+- Making science open is expensive
+  - To make a peer-reviewed article open access, it often costs thousands of dollars
+  - Publishers guilt trip authors into wanting open access
+  - Often negotiations between universities and publishers on price
+-  Publishers want $, authors want to expand on literature
+
+## Git & GitHub
+
+- Raise your hand if you are familiar with Git and GitHub/GitLab
+- [GitHub Desktop](https://github.com/apps/desktop)
+- [Github Education](https://github.com/education)
+- Important considerations
+  - [GitHub information on choosing a license](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+    - [Choose the appropriate license](https://choosealicense.com/)
+  - Make sure your `.gitignore` file is updated and correctly ignoring any sensitive data/information
+
+## Collaboration
+
+- Having documentation standards
+  - This includes writing out interpretable comments in scripts
+  - Documents (Readme files) with more information about each directory in your project
+  - How to make pull requests
+    - Reviewing pull requests
+  - Incorporating tests to make sure code works appropriately and accurately
+
+## Project/Package Management
+
+- Decide what you want to use
+  - virtual environment
+- [uv](https://docs.astral.sh/uv/)
+  - Sync with collaborators
+- Other options
+
+## Docker
+
+- [Getting started with Docker](https://docs.docker.com/get-started/) 
+- [Docker containers for Python](https://docs.docker.com/guides/python/?uuid=dc6864a0-f893-4603-85ef-af49bd841246#containerize-a-python-application)
+- [Docker sandbox](https://docs.docker.com/ai/sandboxes/install/)
+- Docker allows you to containerize your project that will run on any machine
+- If interested in putting your Docker image on the Docker hub, you can save your project as a docker image then publish it
+  - This will stop or at least lessen issues with dependencies in your project
+
+## HPC & Savio
+
+- [](https://docs-research-it.berkeley.edu/services/high-performance-computing/getting-help/training-and-tutorials/#savio-introduction-to-containers-on-savio-creating-reproducible-scalable-and-portable-workflows)
+- [Apptainer for a secure container for HPC](https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-singularity-savio/)
+- [Python in Savio](https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/software/using-software/using-python-savio/)
+
+## Examples of GitHub Repos
+
+- [JP's GitHub Repo](https://github.com/jpedroza1228/estimation_methods)
+
+- [Previous year's data science honors thesis](https://github.com/sohailmukadam/data-science-honors-thesis/tree/main)
+
+- [Another data science honors thesis](https://github.com/hexhannah/data-sci-honors-thesis/tree/main)
+
+- [Population Inference Using Savio](https://github.com/minoli-d/population-inference/tree/main)
+
+## Presentations
+
+- Everyone gets ~8 minutes
+- Feedback will be sent over bcourses
+  - Everyone is expected to respond to their comments
+- You'll need to cover:
+  - Who your advisor is
+  - Why something is a problem
+  - Small amount of literature
+  - RQs/Hypotheses
+  - Methods
+    - What data you'll use
+    - How your data is/was collected
+    - Analytic plan
+    - How you'll analyze data (locally, find resources, etc.)
