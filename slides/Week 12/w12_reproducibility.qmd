@@ -74,7 +74,7 @@ date: today
   - Visualize distribution(s)
   - Render table(s) for potential problematic values
   - Define cutoffs from previous literature
-  - Recoding based on 
+  - Recoding based on previous literature
 
 ## Reproducibility & Open Source
 
